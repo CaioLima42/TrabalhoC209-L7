@@ -4,4 +4,4 @@ Alunos: Caio - 72
         Vinicius - 73
         Igor - 1641
         
-Tema Subtracao de imagens
+Tema: Subtração de fundo (background subtraction)
